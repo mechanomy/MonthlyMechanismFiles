@@ -1,0 +1,34 @@
+Mass properties of bit
+     Configuration: Default
+     Coordinate system: -- default --
+
+Density = 7.300 kilograms per liter
+
+Mass = 24.381 kilograms
+
+Volume = 3.340 liters
+
+Surface area = 0.152 square meters
+
+Center of mass: ( meters )
+	X = 0.055
+	Y = 0.000
+	Z = 0.000
+
+Principal axes of inertia and principal moments of inertia: ( kilograms * square meters )
+Taken at the center of mass.
+	 Ix = ( 1.000,  0.000,  0.000)   	Px = 0.048
+	 Iy = ( 0.000,  0.000, -1.000)   	Py = 0.360
+	 Iz = ( 0.000,  1.000,  0.000)   	Pz = 0.360
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the center of mass and aligned with the output coordinate system. (Using positive tensor notation.)
+	Lxx = 0.048	Lxy = 0.000	Lxz = 0.000
+	Lyx = 0.000	Lyy = 0.360	Lyz = 0.000
+	Lzx = 0.000	Lzy = 0.000	Lzz = 0.360
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the output coordinate system. (Using positive tensor notation.)
+	Ixx = 0.048	Ixy = 0.000	Ixz = 0.000
+	Iyx = 0.000	Iyy = 0.433	Iyz = 0.000
+	Izx = 0.000	Izy = 0.000	Izz = 0.433

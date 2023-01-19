@@ -1,0 +1,34 @@
+Mass properties of shaft
+     Configuration: Default
+     Coordinate system: -- default --
+
+Density = 7.800 kilograms per liter
+
+Mass = 10.385 kilograms
+
+Volume = 1.331 liters
+
+Surface area = 0.459 square meters
+
+Center of mass: ( meters )
+	X = 0.310
+	Y = 0.000
+	Z = 0.000
+
+Principal axes of inertia and principal moments of inertia: ( kilograms * square meters )
+Taken at the center of mass.
+	 Ix = ( 1.000,  0.000,  0.000)   	Px = 0.099
+	 Iy = ( 0.000,  0.000, -1.000)   	Py = 1.519
+	 Iz = ( 0.000,  1.000,  0.000)   	Pz = 1.609
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the center of mass and aligned with the output coordinate system. (Using positive tensor notation.)
+	Lxx = 0.099	Lxy = 0.000	Lxz = 0.000
+	Lyx = 0.000	Lyy = 1.609	Lyz = 0.000
+	Lzx = 0.000	Lzy = 0.000	Lzz = 1.519
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the output coordinate system. (Using positive tensor notation.)
+	Ixx = 0.099	Ixy = 0.000	Ixz = 0.000
+	Iyx = 0.000	Iyy = 2.606	Iyz = 0.000
+	Izx = 0.000	Izy = 0.000	Izz = 2.516
